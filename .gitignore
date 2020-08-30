@@ -1,0 +1,7 @@
+ClipStack/Debug
+ClipStack/Release
+ClipStack/x64
+.vs
+ClipStack/.vscode
+x64
+Release
